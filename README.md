@@ -1,4 +1,4 @@
-<h1 align="center"> Alura+ </h1>
+<h1 align="center"> Alura+ 💻 </h1>
 
 <p align="center">Landing page criada para apresentar o serviço de streaming Alura+</p>
 
