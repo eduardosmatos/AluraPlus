@@ -1,6 +1,7 @@
 <h1 align="center"> Alura+ 💻 </h1>
 
-<p align="center">Landing page criada para apresentar o serviço de streaming Alura+</p>
+<p align="center">Uma landing page criada para o serviço de Streaming "Alura+".</p>
+<p align="center">Projeto criado com base no curso de HTML e CSS da Alura.</p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
